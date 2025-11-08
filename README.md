@@ -15,7 +15,7 @@ Refer to the labels printed on your XRP board or the official SparkFun pinout do
 
 https://docs.sparkfun.com/SparkFun_XRP_Controller/hardware_overview/#expansion-headers
 
-![example from website]([https://example.com/image.png](https://docs.sparkfun.com/SparkFun_XRP_Controller/assets/img/XRP-Controller-Expansion-Pinout-Table.jpg))
+![XRP Pinout](images/XRP-Controller-Expansion-Pinout-Table.jpg)
 
 **Contributions**
 
