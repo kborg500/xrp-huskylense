@@ -28,3 +28,6 @@ Please note:
 The original code is subject to the license specified in the SparkFun repository.
 This repository does not claim ownership of the original code.
 For official usage, distribution, or modification rights, refer to the license in the original repository.
+
+https://github.com/sparkfun/Qwiic_I2C_Py/tree/master
+https://github.com/sparkfun/qwiic_huskylens_py/tree/master
